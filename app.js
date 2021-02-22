@@ -11,6 +11,24 @@ for (i = 0; i <= numberOfButtons; i++) {
     });
 
 }
+// let soundPlay=document.getElementsByClassName("drum");
+// let soundList=Math.floor(Math.random()*4+1);
+// let sounndSource="tom"+soundList+".mp3";
+// let sound="sound/"+sounndSource;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //adding event listener using class names => GIVES SAME OUTPUT AS ABOVE
 
